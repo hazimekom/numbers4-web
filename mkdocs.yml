@@ -1,0 +1,30 @@
+site_name: ナンバーズ4分析アプリ
+site_description: ナンバーズ4を統計的に分析し、参考情報を提供するアプリの公式紹介サイト
+site_url: https://numbers4-web.pages.dev
+
+# 公開サイトは「説明・信頼構築・導線」だけに限定する
+# 予測ロジックの詳細・学習手法・パラメータ等は置かない
+
+nav:
+  - ホーム: index.md
+  - ナンバーズ4とは: numbers4/index.md
+  - 当選番号: results/index.md
+  - ダウンロード: download/index.md
+  - プライバシー: privacy/index.md
+  - サポート: support/index.md
+  - リリース: release/index.md
+
+theme:
+  name: material
+  language: ja
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/css/extra.css
+
+# 初期は軽く運用し、安定後に strict（リンク切れ検出）を有効化
+# strict: true
