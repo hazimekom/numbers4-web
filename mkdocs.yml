@@ -26,5 +26,8 @@ markdown_extensions:
 extra_css:
   - assets/css/extra.css
 
+extra_files:
+  - llms.txt
+
 # 初期は軽く運用し、安定後に strict（リンク切れ検出）を有効化
 # strict: true
