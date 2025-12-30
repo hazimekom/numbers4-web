@@ -29,8 +29,19 @@ A. 以下の問い合わせ先からご連絡ください。可能であれば�
 
 ## お問い合わせ
 
-以下のフォームからお問い合わせください：
+以下のフォームからお問い合わせください（このページ内で送信できます）。
 
+<iframe
+	src="https://docs.google.com/forms/d/e/1FAIpQLSdSiNh7tBfPjacnFNs_Th9th8JB-kNRzNCj_Wr-38tIJl8WOQ/viewform?embedded=true"
+	width="100%"
+	height="1100"
+	frameborder="0"
+	marginheight="0"
+	marginwidth="0"
+	style="border:0;"
+>読み込んでいます…</iframe>
+
+フォームが表示されない場合：
 https://forms.gle/uuyiFhFA8hygMDJe8
 
 ### 不具合報告テンプレ（コピペ可）
