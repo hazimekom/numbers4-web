@@ -17,6 +17,7 @@ nav:
 theme:
   name: material
   language: ja
+  custom_dir: overrides
 
 markdown_extensions:
   - admonition
