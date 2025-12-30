@@ -1,6 +1,6 @@
 site_name: ナンバーズ4分析アプリ
 site_description: ナンバーズ4を統計的に分析し、参考情報を提供するアプリの公式紹介サイト
-site_url: https://numbers4-web.pages.dev
+site_url: https://numbers4-web.pages.dev/
 
 # 公開サイトは「説明・信頼構築・導線」だけに限定する
 # 予測ロジックの詳細・学習手法・パラメータ等は置かない
@@ -25,9 +25,6 @@ markdown_extensions:
 
 extra_css:
   - assets/css/extra.css
-
-extra_files:
-  - llms.txt
 
 # 初期は軽く運用し、安定後に strict（リンク切れ検出）を有効化
 # strict: true

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://numbers4-web.pages.dev/sitemap.xml
