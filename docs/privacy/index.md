@@ -19,10 +19,6 @@
 
 本アプリ/本サイトは、当選番号の表示や更新のために、外部のデータ配信先からJSONデータを取得する場合があります。
 
-例（参照先の一例。将来変更される場合があります）：
-
-- https://hazimekom.github.io/numbers4-api/api/v1/latest.json
-- https://hazimekom.github.io/numbers4-api/api/v1/numbers4_all_min.json
 
 ### お問い合わせ時に利用者が提供する情報
 

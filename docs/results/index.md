@@ -71,12 +71,6 @@ JavaScriptが有効な環境では、
 
 ---
 
-## データ参照先（透明性のための明示）
-
-- JSON（最新1件）：  
-  https://hazimekom.github.io/numbers4-api/api/v1/latest.json
-- JSON（全履歴・軽量）：  
-  https://hazimekom.github.io/numbers4-api/api/v1/numbers4_all_min.json
 
 ---
 
