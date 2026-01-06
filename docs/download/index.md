@@ -5,8 +5,7 @@
 
 ## Google Play（公式配布）
 
-- アプリページ：準備中（公開後、Google PlayのURLに差し替えてください）
-	- 例：`https://play.google.com/store/apps/details?id=YOUR.PACKAGE.NAME`
+- アプリページ: [https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja](https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja)
 
 ## インストール手順（参考）
 
