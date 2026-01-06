@@ -52,7 +52,7 @@
 
 ## ダウンロード
 
-- Google Play：準備中（URLを差し替えてください）
+- Google Play: [https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja](https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja)
 
 ## ご注意（誤認防止）
 
