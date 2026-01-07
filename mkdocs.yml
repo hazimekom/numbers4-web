@@ -1,5 +1,5 @@
 site_name: ナンバーズ4分析アプリ
-site_description: ナンバーズ4を統計的に分析し、参考情報を提供するアプリの公式紹介サイト
+site_description: ナンバーズ4予想AI 忍者 - 過去の当選データをAI（LSTM）で分析し、数字選びをサポートするAndroid専用の無料分析アプリ
 site_url: https://numbers4-web.pages.dev/
 
 # 公開サイトは「説明・信頼構築・導線」だけに限定する
