@@ -5,7 +5,11 @@
 
 ## Google Play（公式配布）
 
-- アプリページ: [https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja](https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja)
+<a href="https://play.google.com/store/apps/details?id=com.hazimekom.numbersninja&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1" target="_blank" rel="noopener">
+  <img alt="Google Play で手に入れよう" 
+       src="https://play.google.com/intl/en_us/badges/static/images/badges/ja_badge_web_generic.png" 
+       style="width: 200px; height: auto; border: none;"/>
+</a>
 
 ## インストール手順（参考）
 
