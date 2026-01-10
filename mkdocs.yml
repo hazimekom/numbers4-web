@@ -10,6 +10,10 @@ nav:
   - ナンバーズ4とは: numbers4/index.md
   - 当選番号: results/index.md
   - ダウンロード: download/index.md
+  - 技術・設計:
+      - SQLiteとは: tech/sqlite.md
+      - LSTMとは: tech/lstm.md
+      - 風車盤とは: tech/windmill.md
   - プライバシー: privacy/index.md
   - サポート: support/index.md
   - リリース: release/index.md
